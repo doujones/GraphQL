@@ -1,0 +1,23 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "GraphQL3",
+  "main": "app.js",
+  "dependencies": {
+    "prisma": "^1.34.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doujones/GraphQL.git"
+  },
+  "author": "William Boswell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doujones/GraphQL/issues"
+  },
+  "homepage": "https://github.com/doujones/GraphQL#readme"
+}
